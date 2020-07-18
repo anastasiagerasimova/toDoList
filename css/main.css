@@ -1,0 +1,21 @@
+.far{
+    font-size: 24px;
+}
+
+.fa-square{
+    color: rgb(38, 40, 43);
+}
+
+.fa-check-square{
+    color: lightgray;
+}
+
+ul li input[type=text] {
+    display: none;
+}
+
+ul li.editMode input[type=text] {
+    display: inline-block;
+    vertical-align: middle;
+}
+
